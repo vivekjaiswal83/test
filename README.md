@@ -1,2 +1,2 @@
 # test
-test reprository
+test reprositoryfor my first class
