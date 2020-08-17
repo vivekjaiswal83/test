@@ -1,5 +1,6 @@
 print("Hello, World!")
+print("Hi")
 print(7 - 5)
-print(2 * 7)
+print(2 - 7)
 print()
 print('The End')
